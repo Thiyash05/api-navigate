@@ -1,0 +1,23 @@
+.card{
+    box-shadow: 0 0 4px gray;
+}
+
+.card-style{
+     width: 40% !important;
+     height:90vh;
+     margin:30px;
+     text-align:center;
+     box-shadow:0 0 15px solid gray;
+     margin-left:30%
+}
+.card-title{
+    font-family: fantasy;
+}
+.detail-card{
+    padding-top: 30px;
+    font-family: fantasy;
+}
+
+.head{
+    font-family: 'Gill Sans', 'Gill Sans MT', Calibri, 'Trebuchet MS', sans-serif;
+}
